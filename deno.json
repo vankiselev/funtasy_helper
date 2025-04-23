@@ -1,0 +1,13 @@
+{
+  "fmt": {
+    "singleQuote": true,
+    "semiColons": false,
+    "lineWidth": 100
+  },
+  "imports": {
+    "@googleapis/drive": "npm:@googleapis/drive@^8.14.0",
+    "@std/dotenv": "jsr:@std/dotenv@^0.225.3",
+    "google-spreadsheet": "npm:google-spreadsheet@4.1.4",
+    "google-auth-library": "npm:google-auth-library@9.15.0"
+  }
+}
